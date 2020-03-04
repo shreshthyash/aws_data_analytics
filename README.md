@@ -1,19 +1,19 @@
 # data_analytics_online_retail
 
-## Introduction
+# Introduction
 
-## Data Preparations
+# Data Preparations
 
 # load the data
 
-## Data set Column	Description
+# Data set Column	Description
 
-## Data Cleaning 
+# Data Cleaning 
 
-### Pre processing-1 of data
+# Pre processing-1 of data
 
-## Single variable EDA
+# Single variable EDA
 
-## Multi variable EDA
+# Multi variable EDA
 
-## Conclusion
+# Conclusion
